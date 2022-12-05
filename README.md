@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alpeyy
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning how to code in python
